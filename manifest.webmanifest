@@ -3,7 +3,7 @@
   "short_name": "PWA",
   "description": "A PWA Test",
   "scope": "/ICS2O-Unit-5-08-HTML/",
-  "start_url": "/ICS2O-Unit5-08-HTML/",
+  "start_url": "/ICS2O-Unit-5-08-HTML/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
